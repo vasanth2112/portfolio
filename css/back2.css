@@ -1,0 +1,144 @@
+hr{
+    border-style: dotted none none;
+    border-color:#055052;
+    border-width: 15px;
+    width: 10%;
+    margin:50px auto;
+
+    }
+.profile{
+    position: relative;
+
+}
+
+.myimage{
+        height: 200px;
+        width: 200px;
+        float: left;
+        margin: 40px 20px 20px 30px;
+    }
+    .skillimg{
+        height: 200px;
+        width: 200px;
+        float: left;
+        margin: 40px 20px 20px 30px;
+    }
+.proimg{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin: 30px 20px 20px 30px;
+
+}
+h2{
+    margin: 15px;
+    padding: 20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    
+}
+h3{
+    padding: 15px;
+    margin: 15px;
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    
+}
+p{
+    margin: 0px;
+    font-size: 1rem;
+    font-family: 'Urbanist', sans-serif;
+    line-height: 1.5;
+    padding:0px 20px 30px 40px;
+}
+.divpro{
+    height: 280PX;
+    width: 60%;
+    color: #055052;
+    background-color: #FFF8E5;
+    text-align: left;
+    margin: 100px auto;
+    border-radius: 40px;
+    line-height: 1.5;
+}
+.divpro:hover{
+    box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+-webkit-box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+-moz-box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+}
+
+.skills{
+    position: relative;
+margin: auto;
+color: #055052;
+}
+.skill-row{
+    height: 270px;
+    text-align: left;
+    margin:50px auto;
+    width: 50%;
+    color: #055052;
+    background-color: #FFF8E5;
+    border-radius: 40px;
+    line-height: 1.5;
+}
+.skill-row:hover{
+    box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+-webkit-box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+-moz-box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+}
+.skill-row1{
+    height: 250px;
+    text-align: right;
+    margin:50px auto;
+    width: 50%;
+    color: #055052;
+        background-color: #FFF8E5;
+        border-radius: 40px;
+        line-height: 1.5;
+}
+.skill-row1:hover{
+    box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+-webkit-box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+-moz-box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
+}
+.butterfly1{
+    height: 5em;
+    width: 5em;  
+ position:absolute;
+ bottom: 160px;
+ right: 150px;
+}
+.butterfly2{
+    height: 7em;
+    width: 7em;   
+ position:absolute;
+ top: 100x;
+ left: 150px;
+}
+.butterfly3{
+    height: 9em;
+    width: 9em;   
+ position:absolute;
+ bottom: 150px;
+ right: 60px;
+}
+
+.bottom-container{
+    color: #055052;
+    background-color: #FFF8E5;
+
+}
+.social{
+    opacity:0.8;
+display: inline;
+height: 30px;
+width: 30px;
+margin:15px;
+}
+.social:hover{
+ opacity: 2;
+}
+.footerlink{
+    margin:0px;
+}

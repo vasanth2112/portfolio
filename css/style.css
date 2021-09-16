@@ -1,0 +1,51 @@
+
+    hr{
+      border-style: dashed none none;
+      border-color:#9eafcf;
+      border-width: 3px;
+      width: 95%;
+      }
+    h1{
+      font-family:Arial black;
+      color:#22577A;
+
+     }
+    h{
+      padding-left: 10px;
+      font-family:Calibri;
+      color:#22577A;
+      font-weight:bold;
+     }
+     .h5{
+       float: left;
+     }
+    a{
+      text-decoration:none;
+    margin-bottom: 7px;
+    border-top-width: 21px;
+    border-left-width: 0px;
+     }       
+     p{
+       padding-left: 30px;
+       font-family: 'Roboto Slab', serif;
+     }
+     .tablemarks{
+     
+      border-collapse:collapse;
+      font-family: 'Roboto Slab', serif;
+      width:50%;
+      
+     }
+     .pad{
+      padding-left: 30px;
+     }
+     h5{
+      font-family:Calibri;
+      color:#22577A;
+      padding-left: 15px;
+     }
+     span{
+       padding-top: 35px;
+       padding-right: 50px;
+     }
+     
