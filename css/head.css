@@ -19,7 +19,7 @@ height: 1200px;
 }
 .devimage{
     padding-bottom: 5px;
-    padding-right: 10px;
+    padding-right: 1px;
     padding-top: 15px;
     height: 110px;
     width: 110px;
@@ -29,7 +29,6 @@ height: 1200px;
 h1{
     
     text-align: center;
-    padding-top:px;
     font-family: 'Dancing Script',cursive;
     font-size: 7.5rem;
     margin:0px;
@@ -52,10 +51,10 @@ padding: 0px;
     margin-top: 20px;
     border-radius: 20px;
     text-decoration:none;
-    font-size: 1.5rem;
-    font-family: 'Pacifico', cursive;
+    font-size: 1.2rem;
+  font-family: 'Roboto Mono', monospace;;
     font-weight: bold;
-  padding: 15px;
+  padding: 10px;
 }
 .topfont:hover{
     background-color: #055052;
