@@ -33,14 +33,14 @@ hr{
 h2{
     margin: 15px;
     padding: 20px;
-    font-family: 'Pacifico', cursive;
+font-family: 'Roboto Mono', monospace;
     font-size: 50px;
     
 }
 h3{
     padding: 15px;
     margin: 15px;
-    font-family: 'Pacifico', cursive;
+   font-family: 'Roboto Mono', monospace;
     font-size: 35px;
     
 }
