@@ -33,14 +33,14 @@ hr{
 h2{
     margin: 15px;
     padding: 20px;
-font-family: 'Roboto Mono', monospace;
+    font-family: 'Pacifico', cursive;
     font-size: 50px;
     
 }
 h3{
-    padding: 10px;
-    margin: 10px;
-   font-family: 'Roboto Mono', monospace;
+    padding: 15px;
+    margin: 15px;
+    font-family: 'Pacifico', cursive;
     font-size: 35px;
     
 }
@@ -52,8 +52,8 @@ p{
     padding:0px 20px 30px 40px;
 }
 .divpro{
-    padding: 20px 40px 70px 20px;
-    width: 70%;
+    height: 280PX;
+    width: 60%;
     color: #055052;
     background-color: #FFF8E5;
     text-align: left;
@@ -73,10 +73,10 @@ margin: auto;
 color: #055052;
 }
 .skill-row{
-   padding: 20px 40px 40px 20px;
+    height: 270px;
     text-align: left;
     margin:50px auto;
-    width: 60%;
+    width: 50%;
     color: #055052;
     background-color: #FFF8E5;
     border-radius: 40px;
@@ -88,10 +88,10 @@ color: #055052;
 -moz-box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
 }
 .skill-row1{
-   padding: 20px 40px 40px 20px;
+    height: 250px;
     text-align: right;
     margin:50px auto;
-    width: 60%;
+    width: 50%;
     color: #055052;
         background-color: #FFF8E5;
         border-radius: 40px;
