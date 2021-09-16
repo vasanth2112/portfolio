@@ -73,7 +73,7 @@ margin: auto;
 color: #055052;
 }
 .skill-row{
-    height: 270px;
+   padding: 20px 40px 40px 20px;
     text-align: left;
     margin:50px auto;
     width: 50%;
@@ -88,7 +88,7 @@ color: #055052;
 -moz-box-shadow: 0px -2px 27px 7px rgba(5,80,82,0.58);
 }
 .skill-row1{
-    height: 250px;
+   padding: 20px 40px 40px 20px;
     text-align: right;
     margin:50px auto;
     width: 50%;
